@@ -4,3 +4,5 @@ piza
 pasta
 sauce
 
+beans
+bread
